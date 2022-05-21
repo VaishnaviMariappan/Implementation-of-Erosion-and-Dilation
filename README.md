@@ -46,15 +46,12 @@ plt.axis('off')
 
 ### Display the input Image
 ![output](./normal.png)
-<br>
 
 ### Display the Eroded Image
 ![output](./eroded.png)
-<br>
 
 ### Display the Dilated Image
 ![output](./dilated.png)
-<br>
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
